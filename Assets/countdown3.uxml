@@ -1,0 +1,3 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:Label tabindex="-1" text="3" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Text" style="-unity-text-align: middle-center; white-space: nowrap; bottom: 50%; position: relative; left: 0; top: 50%; right: 0; width: 100%; height: 5%; font-size: 80px; color: rgb(255, 255, 255);" />
+</ui:UXML>
